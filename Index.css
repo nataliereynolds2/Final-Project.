@@ -1,0 +1,101 @@
+:root {--jet: #343434ff;
+--delft-blue: #2f3061ff;
+--tropical-indigo: #8b85c1ff;
+--dun: #d1c6adff;
+--platinum: #dfdfdfff;
+--ultra-violet: #6c698dff;
+--timberwolf: #d4d2d5ff;
+--light-blue: #c2dfe3ff;
+--mint-cream: #f0f7f4ff;
+--raisin-black: #1b1725ff;
+--white-smoke: #eff2efff;
+--lavender-web: #e5eafaff;}
+
+
+body {margin: 0px;
+    height: 150vh;
+background-image: url(images/Batman\ \(LF\)\ City.jpeg);}
+
+#lala { height: 60vh !important;
+width: 500px !important;}
+
+
+
+
+#firstLink {color: rgb(80, 135, 180); 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+position: sticky;
+top: 0;
+margin: 0;
+background-color: var(--raisin-black);
+grid-column: 1/4;
+}
+
+
+
+   div {background-image:url(ab5cd5e85d21551ea3b2823dc6ba4a71.jpg);
+   background-size: cover; background-position: center; background-repeat: no-repeat;
+   }
+
+
+   #higuth {
+           width: 60%;           
+                  margin: auto;
+           padding: 8px;         
+           text-align: justify;  
+color: var(--delft-blue);
+
+       }
+
+       .higut:hover {color: var(--dun);}
+      .higut:active{color: var(--tropical-indigo);}
+
+#hello {
+    height: 150vh;
+    padding: 14px;
+    margin: 0%;
+background-color:var(--lavender-web);
+margin-left: 220px;
+margin-right: 220px;
+
+
+
+
+}
+      
+
+#hey{
+    text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+font-size: larger;
+color: var(--jet)
+;
+}
+
+#huy{
+    text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+font-size: larger;
+color: var(--jet)
+;
+size-adjust: 20px;
+}
+
+.higut{
+    color: rgb(80, 135, 180); 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+position: sticky;
+top: 0;
+margin: 0;
+padding: 20px;
+background-color: var(--raisin-black);
+grid-column: 1/4;
+justify-content: space-evenly;
+
+
+}
+
